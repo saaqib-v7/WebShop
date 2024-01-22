@@ -1,0 +1,15 @@
+Grapefruit 90 38
+Lemon 50 47
+Cantaloupe 180 68
+Cucumber 30 95
+Carrot 25 110
+Pomegranate 120 30
+Blackberry 70 42
+Apricot 110 50
+Avocado 150 20
+Cranberry 55 48
+Fig 80 37
+Guava 95 40
+Lime 40 55
+Nectarine 105 60
+PassionFruit 130 25
